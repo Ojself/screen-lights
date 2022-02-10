@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/screen-lights/static/css/main.278ae2aa.css",
-    "main.js": "/screen-lights/static/js/main.0da6814e.js",
+    "main.js": "/screen-lights/static/js/main.906dd1d6.js",
     "index.html": "/screen-lights/index.html",
     "main.278ae2aa.css.map": "/screen-lights/static/css/main.278ae2aa.css.map",
-    "main.0da6814e.js.map": "/screen-lights/static/js/main.0da6814e.js.map"
+    "main.906dd1d6.js.map": "/screen-lights/static/js/main.906dd1d6.js.map"
   },
   "entrypoints": [
     "static/css/main.278ae2aa.css",
-    "static/js/main.0da6814e.js"
+    "static/js/main.906dd1d6.js"
   ]
 }
